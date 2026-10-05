@@ -41,4 +41,4 @@ node comissoes.js
 node estoque.js
 
 # Executar o cálculo de juros
-node juros.js
+node juros.js# desafio-logica-backend
